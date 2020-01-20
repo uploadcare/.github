@@ -3,7 +3,7 @@
 Thanks for taking the time to contribute!
 
 Uploadcare consists of:
-* **Upload API** to manage uploads
+* **Upload API** to upload files
 * **REST API** to manage uploaded files, file groups, and projects
 * **Processing API** to transform uploaded files on-the-fly
 * **Uploader** which replaces system uploader with a powerful customizable UI
@@ -15,12 +15,16 @@ Here are some important resources to learn about it:
 * [REST API references](https://uploadcare.com/api-refs/rest-api/v0.5.0/)
 
 If you have any questions, email us at help@uploadcare.com or chat with us in Intercom at [uploadcare.com](https://uploadcare.com), or create an issue.
+If you still have unanswered questions, ask in our [Community](https://uploadcare.com/community/).
 
 ## Bugs
 
 * **Please, do not open up a GitHub issue if the bug is a security vulnerability**, and instead to refer to our [security policy](https://github.com/rsedykh/.github/blob/master/SECURITY.md).
 
 * When openning a new issue, be sure to include a **title and clear description**, as much relevant information as possible.
+
+> I guess we need some information to reproduce the bug.
+> A question checklist could solve this problem, I guess
 
 ### **Did you write a patch that fixes a bug?**
 
@@ -40,4 +44,16 @@ If you have any questions, email us at help@uploadcare.com or chat with us in In
 
 ## Coding conventions
 
-TBD
+все должны проверять линтеры
+но еще нужны автоформатеры, чтобы вы не парились, и линтеры были довольны
+нужно обязательно написать как их запускать и с какими ключами и в каком порядке
+(Пример как делать не надо, но нужно взять за основу: https://github.com/python-pillow/Pillow/blob/f90a21965ab214dbba866f7fb512325103410436/tox.ini#L26-L30)
+
+
+
+
+
+
+
+
+мне кажется что в файле contrubution.md должен быть такой контент: https://github.com/ExtendRealityLtd/.github/blob/master/CONTRIBUTING.md ( хочешь контрибьютить делай форк и ветку пуш пр, с коментариями для мейнтейнеров как и где расширять документ если нужно )
