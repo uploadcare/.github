@@ -18,7 +18,7 @@ If you have any questions, email us at help@uploadcare.com or chat with us in In
 
 ## Bugs
 
-* **Do not open up a GitHub issue if the bug is a security vulnerability**, and instead to refer to our [security policy](https://github.com/rsedykh/.github/blob/master/SECURITY.md).
+* **Please, do not open up a GitHub issue if the bug is a security vulnerability**, and instead to refer to our [security policy](https://github.com/rsedykh/.github/blob/master/SECURITY.md).
 
 * When openning a new issue, be sure to include a **title and clear description**, as much relevant information as possible.
 
