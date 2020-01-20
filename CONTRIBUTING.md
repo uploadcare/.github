@@ -3,7 +3,7 @@
 Thanks for taking the time to contribute!
 
 Uploadcare consists of:
-* **Upload API** to manage uploads
+* **Upload API** to upload files
 * **REST API** to manage uploaded files, file groups, and projects
 * **Processing API** to transform uploaded files on-the-fly
 * **Uploader** which replaces system uploader with a powerful customizable UI
@@ -12,7 +12,7 @@ Here are some important resources to learn about it:
 
 * [Documentation](http://uploadcare.com/docs/)
 * [Upload API references](https://uploadcare.com/api-refs/upload-api/)
-* [REST API references](https://uploadcare.com/api-refs/rest-api/v0.5.0/)
+* [REST API references](https://uploadcare.com/api-refs/rest-api/)
 
 If you have any questions, email us at help@uploadcare.com or chat with us in Intercom at [uploadcare.com](https://uploadcare.com), or create an issue.
 
