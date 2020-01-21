@@ -1,7 +1,5 @@
-Here are some important resources to learn about Uploadcare:
+Take a look at our [documentation](http://uploadcare.com/docs/) to find out how it works.
 
-* [Documentation](http://uploadcare.com/docs/)
-* [Upload API references](https://uploadcare.com/api-refs/upload-api/)
-* [REST API references](https://uploadcare.com/api-refs/rest-api/)
+If you have specific API wrapper or Uploader library related question / bug / suggestion, create an issue.
 
-If you still have unanswered questions, ask in our [Community](https://uploadcare.com/community/).
+If you have questions about using Uploadcare in general, ask in our [Community](https://uploadcare.com/community/).
