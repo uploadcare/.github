@@ -23,7 +23,7 @@ Take a look at our [documentation](http://uploadcare.com/docs/) to find out how 
 * Make commits of logical units.
 * Make sure your commit messages are in the proper format.
 * Push your changes to your topic branch in your repository.
-* Submit a pull request to this repository into the appropriate branch:
+* Submit a pull request to this repository into the appropriate branch.
 * The repository team will aim to look at the pull request as soon as possible, provide feedback where required and merge when it is deemed a satisfactory addition.
 
 **If you're going to build a completely new library, contact us, we're more than willing to help!**
@@ -36,6 +36,7 @@ Take a look at our [documentation](http://uploadcare.com/docs/) to find out how 
 * Add changelog stub or use [conventional commit messages](https://www.conventionalcommits.org/)
 * Run auto-formatters
 * Run linters
+* Run tests
 
 > нужно обязательно написать как их запускать и с какими ключами и в каком порядке
 > (Пример как делать не надо, но нужно взять за основу: https://github.com/python-pillow/Pillow/blob/f90a21965ab214dbba866f7fb512325103410436/tox.ini#L26-L30)
