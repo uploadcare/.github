@@ -1,25 +1,15 @@
-## Context
+## Description
 
-<!--
-Share more context. Should be around few sentences.
--->
+<!-- Link to the related issue -->
 
-This PR adds ...
+<!-- Write a brief description of the changes introduced by this PR -->
 
-Related issue — ...
+<!-- Provide code snippets / GIFs or screenshots, if it makes sense -->
 
-## Demo
-
-This is how it looks like in action:
-
-`GIF / Screenshot`
 
 ## Checklist
 
-<!--
-Describe everything that you did / plan to do while working on this PR.
--->
-- [x] ...
-- [ ] ...
-- [ ] test everything manually
-- [ ] write a good PR description
+- [ ] Tests
+- [ ] Documentation
+- [ ] Changelog stub (or use [conventional commit messages](https://www.conventionalcommits.org/))
+- [ ] Updated authors.txt or corresponding meta
