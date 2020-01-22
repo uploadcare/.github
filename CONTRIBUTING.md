@@ -15,15 +15,12 @@ Take a look at our [documentation](http://uploadcare.com/docs/) to find out how 
 
 ## How to contribute
 
-* Create an issue if you want to discuss anything with us beforehand.
+* Create an issue or email at hello@uploadcare.com if you want to discuss anything with us beforehand.
 * Read about our [coding conventions](#coding-conventions) down below.
 * Fork the repository.
-* Please avoid working directly on your master branch.
-* Create a topic branch from where you want to base your work.
 * Make commits of logical units.
-* Make sure your commit messages are in the proper format.
 * Push your changes to your topic branch in your repository.
-* Submit a pull request to this repository into the appropriate branch.
+* Submit a pull request to this repository.
 * The repository team will aim to look at the pull request as soon as possible, provide feedback where required and merge when it is deemed a satisfactory addition.
 
 **If you're going to build a completely new library, contact us, we're more than willing to help!**
