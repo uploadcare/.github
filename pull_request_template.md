@@ -12,4 +12,3 @@
 - [ ] Tests
 - [ ] Documentation
 - [ ] Changelog stub (or use [conventional commit messages](https://www.conventionalcommits.org/))
-- [ ] Updated authors.txt or corresponding meta
