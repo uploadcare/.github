@@ -1,20 +1,18 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an idea for this library
 title: ''
-labels: ''
+labels: 'feature'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+<!-- Please fill out each section below -->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+### Brief description of the feature
+<!-- Describe alternatives you've considered. -->
+<!-- Include a basic code example if your request involves a new or changed API. -->
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### Motivation
+<!-- Why should we implement that? What are the possible use-cases? What is the expected outcome? What good will that do? Is your feature request related to a problem? Ex. I'm always frustrated when [...] -->
