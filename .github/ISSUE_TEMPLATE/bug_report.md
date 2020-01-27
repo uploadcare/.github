@@ -17,7 +17,9 @@ assignees: ''
 
 ### Environment
 
+For any library:
  - Library version:
+ - Programming language / framework version:
  - Тут надо мне помочь со списком обязателных вещей
 
 For web uploader library:
