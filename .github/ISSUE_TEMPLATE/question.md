@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-### Summary
+### Question
 
+<!-- Your question. -->
 
-### Relevant information
-<!-- Environment, etc. Please include as much info as possible so we can help you rapidly. -->
+<!-- Relevant information: environment, etc. Please include as much info as possible so we can help you rapidly. -->

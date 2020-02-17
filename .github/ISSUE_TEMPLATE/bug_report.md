@@ -7,30 +7,23 @@ assignees: ''
 
 ---
 
-<!-- Please fill out each section below -->
-
 ### Describe the bug
 
+<!-- Description. -->
+
+<!-- Steps to reproduce. -->
 
 ### Expected behavior
 
 
-### Environment
 
-For any library:
- - Library version:
- - Programming language / framework version:
- - Тут надо мне помочь со списком обязателных вещей
+### Code / screenshots
 
-For web uploader library:
- - `node -v`:
- - `npm -v`:
-
-### Steps to reproduce
-
-
-### Code snippets
 <!-- Include a self-contained, copy-pastable example that generates the issue if possible. -->
 
+<!-- Screenshots (if applicable). -->
 
-### Screenshots (if applicable)
+### Environment
+
+ - Library version:
+ - Language/framework version:
