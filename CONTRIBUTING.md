@@ -17,8 +17,6 @@ Take a look at our [documentation](http://uploadcare.com/docs/) to find out how 
 * Submit a pull request to this repository.
 * The repository team will aim to look at the pull request as soon as possible, provide feedback where required and merge when it is deemed a satisfactory addition.
 
-Read about our [coding conventions](#coding-conventions) down below.
-
 **If you're going to build a completely new library, contact us at hello@uploadcare.com, we're more than willing to help!**
 
 ## Coding conventions
