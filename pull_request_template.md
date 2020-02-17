@@ -9,6 +9,6 @@
 
 ## Checklist
 
-- [ ] Tests
-- [ ] Documentation
+- [ ] Tests (if applicable)
+- [ ] Documentation (if applicable)
 - [ ] Changelog stub (or use [conventional commit messages](https://www.conventionalcommits.org/))
