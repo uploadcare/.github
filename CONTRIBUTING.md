@@ -8,35 +8,28 @@ Uploadcare consists of:
 * **Processing API** to transform uploaded files on-the-fly
 * **Uploaders** (web, iOS, and Android) which replaces system uploader with a powerful customizable UI
 
-> Processing API вроде устаревшее название
-> все названия нужно будет согласовать с Толей и Димой Мухиным
-
 Take a look at our [documentation](http://uploadcare.com/docs/) to find out how it works.
 
 ## How to contribute
 
-* Create an issue or email at hello@uploadcare.com if you want to discuss anything with us beforehand.
-* Read about our [coding conventions](#coding-conventions) down below.
-* Fork the repository.
-* Make commits of logical units.
-* Push your changes to your topic branch in your repository.
+* Create an issue or send us an email at hello@uploadcare.com (if you want to discuss anything with us beforehand).
+* Fork, commit, push.
 * Submit a pull request to this repository.
 * The repository team will aim to look at the pull request as soon as possible, provide feedback where required and merge when it is deemed a satisfactory addition.
 
-**If you're going to build a completely new library, contact us, we're more than willing to help!**
+Read about our [coding conventions](#coding-conventions) down below.
+
+**If you're going to build a completely new library, contact us at hello@uploadcare.com, we're more than willing to help!**
 
 ## Coding conventions
 
-* Follow the relevant coding conventions depending on the project language listed below
 * Write tests
 * Write documentation
 * Add changelog stub or use [conventional commit messages](https://www.conventionalcommits.org/)
 * Run auto-formatters
 * Run linters
 * Run tests
-
-> нужно обязательно написать как их запускать и с какими ключами и в каком порядке
-> (Пример как делать не надо, но нужно взять за основу: https://github.com/python-pillow/Pillow/blob/f90a21965ab214dbba866f7fb512325103410436/tox.ini#L26-L30)
+* Follow the relevant coding conventions depending on the project language listed below
 
 ### JavaScript
 
