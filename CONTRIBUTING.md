@@ -29,20 +29,4 @@ Read about our [coding conventions](#coding-conventions) down below.
 * Run auto-formatters
 * Run linters
 * Run tests
-* Follow the relevant coding conventions depending on the project language listed below
-
-### JavaScript
-
-### python / Django
-
-### Ruby / Ruby on Rails
-
-### Java
-
-### PHP
-
-### Golang
-
-### Swift
-
-### Kotlin
+* Follow the relevant coding conventions mentioned in the repository README.md
