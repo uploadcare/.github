@@ -27,3 +27,4 @@ Take a look at our [documentation](http://uploadcare.com/docs/) to find out how 
 * Run auto-formatters
 * Run linters
 * Run tests
+* Follow the relevant coding conventions mentioned in the repository README.md
