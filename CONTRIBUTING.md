@@ -5,7 +5,7 @@ Thanks for taking the time to contribute to our **API wrappers & Uploaders**!
 Uploadcare consists of:
 * **Upload API** to upload files
 * **REST API** to manage uploaded files, file groups, and projects
-* **Processing API** to transform uploaded files on-the-fly
+* **Transformations** to transform uploaded files on-the-fly
 * **Uploaders** (web, iOS, and Android) which replaces system uploader with a powerful customizable UI
 
 Take a look at our [documentation](http://uploadcare.com/docs/) to find out how it works.
